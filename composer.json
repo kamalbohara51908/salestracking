@@ -1,10 +1,12 @@
 {
     "name": "k2stech/salestracking",
     "description": "sales tracking code for Magento 2",
+    "require": {
+        "k2stech/salestracking": "^1.0.2"
+    },
     "type": "magento2-module",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "license": "proprietary",
-    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Möbel",
