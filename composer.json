@@ -1,5 +1,5 @@
 {
-    "name": "k2stech/salestracking",
+    "name": "k2stech/salestracking-plugins",
     "description": "sales tracking code for Magento 2",
     "type": "magento2-module",
     "version": "1.5.3",
